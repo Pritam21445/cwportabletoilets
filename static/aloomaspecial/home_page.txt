@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How fast can I get a unit delivered?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Often same‑day or next‑day, depending on inventory and location, just call for availability.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What hygiene steps do you follow?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Every unit is pressure‑washed, disinfected, and restocked; long‑term rentals receive on‑site servicing.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you service remote sites?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, our team routinely routes portable restroom rental fleets to off‑grid venues and film sets.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is long‑term rental an option?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We offer discounted weekly and monthly rates plus scheduled maintenance.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your practices eco‑friendly?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We use water‑saving fixtures and biodegradable chemicals; waste is disposed of at licensed facilities.</p>
+                <div class="callalooma mx-auto"><a href="tel:888341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
